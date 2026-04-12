@@ -11,8 +11,6 @@
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
 </p>
 
 <h3>My Journey & Highlights</h3>
@@ -28,23 +26,56 @@
     <tr>
       <td><a href="https://github.com/mohamedbalighe/CPP-Programming-Basics-Banking_System-Project"><b>Bank Management System</b></a></td>
       <td><b>Team Leader (Led 4 Members)</b></td>
-      <td>C++, OOP, Data Structures</td>
+      <td>C++, OOP</td>
     </tr>
     <tr>
-      <td><a href="#"><b>The UX Review</b></a></td>
-      <td><b>Frontend Developer</b></td>
-      <td>HTML, CSS (Brutalist Style)</td>
+      <td><a href="#"><b>Weekly Challenges</b></a></td>
+      <td><b>6 Projects Completed</b></td>
+      <td>HTML, CSS, Bootstrap</td>
     </tr>
   </tbody>
 </table>
 
+<h3>📅 Weekly Frontend Progress</h3>
+<table>
+  <tr>
+    <td><b>Week 1</b></td>
+    <td>Portfolio Website</td>
+    <td><a href="#">Live Demo</a></td>
+  </tr>
+  <tr>
+    <td><b>Week 2</b></td>
+    <td>FitCore Gym Landing Page</td>
+    <td><a href="#">Live Demo</a></td>
+  </tr>
+  <tr>
+    <td><b>Week 3</b></td>
+    <td>Product Page (DJI Mavic 4)</td>
+    <td><a href="#">Live Demo</a></td>
+  </tr>
+  <tr>
+    <td><b>Week 4</b></td>
+    <td>The UX Review - Blog Landing</td>
+    <td><a href="#">Live Demo</a></td>
+  </tr>
+  <tr>
+    <td><b>Week 5</b></td>
+    <td>Games Website</td>
+    <td><a href="#">Live Demo</a></td>
+  </tr>
+  <tr>
+    <td><b>Week 6</b></td>
+    <td>GameArena Website</td>
+    <td><a href="#">Live Demo</a></td>
+  </tr>
+</table>
+
 <h3>What I'm up to</h3>
 <ul>
-  <li><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> <b>Building with Bootstrap:</b> Currently developing responsive and mobile-first web projects to master UI frameworks.</li>
-  <li>🚀 <b>React Exploration:</b> Diving into component-based architecture and state management.</li>
-  <li>🎯 <b>Frontend Focus:</b> Crafting unique layouts using <b>Tailwind CSS</b> and exploring <b>Brutalist design</b> principles.</li>
-  <li>🧠 <b>Strong Foundation:</b> Leveraging my deep background in <b>C++ Programming Basics</b> and <b>Problem Solving</b> to write high-quality code.</li>
-  <li>👥 <b>Experience:</b> Proven <b>Team Leadership</b> skills from leading a group of 4 in backend-logic projects.</li>
+  <li><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> <b>Weekly Build Habit:</b> Currently in <b>Week 6</b> of building continuous real-world projects.</li>
+  <li>🚀 <b>React Exploration:</b> Transitioning my logic from C++ and static HTML to dynamic components.</li>
+  <li>🎯 <b>Frontend Focus:</b> Mastering <b>Bootstrap</b> and <b>Tailwind CSS</b> for responsive layouts.</li>
+  <li>🧠 <b>Engineering Logic:</b> Applying a problem-solving mindset to the world of Web Development.</li>
 </ul>
 
 <h3>Where to find me</h3>
@@ -54,4 +85,4 @@
 </p>
 
 ------------
-<p align="center">"First, solve the problem. Then, write the code."</p>
+<p align="center">"Consistency is what transforms average into excellence."</p>
