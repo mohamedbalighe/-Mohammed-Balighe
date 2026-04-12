@@ -1,6 +1,10 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<p align="center">
+  <img src="https://i.postimg.cc/wMS5pjGt/Whats-App-Image-2026-04-12-at-6-21-37-PM.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" alt="Mohamed's Profile Picture"/>
+</p>
 
-<p>Welcome to my page! </br> I'm <b>Mohamed</b>, an aspiring Front-End Devloper from Egypt <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/> <b>Egypt</b>. </p>
+<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<p align="center">Welcome to my page! </br> I'm <b>Mohamed</b>, an aspiring Software Engineer from <img src="https://cdn-icons-png.flaticon.com/512/197/197558.png" width="13"/> <b>Egypt</b>. </p>
 
 <h3>Things I code with</h3>
 <p>
