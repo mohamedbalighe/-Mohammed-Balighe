@@ -18,14 +18,14 @@
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
-
 | الأسبوع | المشروع | المعاينة المباشرة |
 | :--- | :--- | :--- |
 | **Week 1** | Portfolio Website | [Live Demo](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html) |
 | **Week 2** | FitCore Gym Landing | [Live Demo](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore-Gym-Landing/index.html) |
-| **Week 3** | Product Page (DJI) | [Live Demo](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The%20-DJI-Mavic-4/index.html) |
-| **Week 4** | The UX Review Blog | [Live Demo](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review%20-%20Blog-Landing/index.html) |
+| **Week 3** | Product Page (DJI) | [Live Demo](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html) |
+| **Week 4** | The UX Review Blog | [Live Demo](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html) |
 | **Week 5** | GameArena Website | [Live Demo](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html) |
+
 
 <h3>My Journey & Highlights</h3>
 <table>
