@@ -30,7 +30,7 @@
     </tr>
     <tr>
       <td><a href="#"><b>Weekly Challenges</b></a></td>
-      <td><b>6 Projects Completed</b></td>
+      <td><b>5 Projects Completed</b></td>
       <td>HTML, CSS, Bootstrap</td>
     </tr>
   </tbody>
@@ -60,11 +60,6 @@
   </tr>
   <tr>
     <td><b>Week 5</b></td>
-    <td>Games Website</td>
-    <td><a href="#">Live Demo</a></td>
-  </tr>
-  <tr>
-    <td><b>Week 6</b></td>
     <td>GameArena Website</td>
     <td><a href="#">Live Demo</a></td>
   </tr>
