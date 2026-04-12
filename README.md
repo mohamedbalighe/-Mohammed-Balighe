@@ -52,7 +52,7 @@
   <tr>
     <td><b>Week 2</b></td>
     <td>FitCore Gym Landing Page</td>
-    <td><a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore Gym Landing">Live Demo</a></td>
+    <td><a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore-Gym-Landing/index.html">Live Demo</a></td>
   </tr>
   <tr>
     <td><b>Week 3</b></td>
