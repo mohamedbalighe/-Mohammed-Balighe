@@ -47,7 +47,7 @@
   <tr>
     <td><b>Week 1</b></td>
     <td>Portfolio Website</td>
-    <td><a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/">Live Demo</a></td>
+    <td><a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html">Live Demo</a></td>
   </tr>
   <tr>
     <td><b>Week 2</b></td>
