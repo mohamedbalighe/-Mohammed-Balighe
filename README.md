@@ -1,4 +1,4 @@
-<p align="center">
+<p align="start">
   <img src="https://i.postimg.cc/wMS5pjGt/Whats-App-Image-2026-04-12-at-6-21-37-PM.jpg" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" alt="Mohamed's Profile Picture"/>
 </p>
 
