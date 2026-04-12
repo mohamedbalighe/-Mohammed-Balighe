@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/mohamedbalighe">
-    <img src="[https://i.postimg.cc/wMS5pjGt/Whats-App-Image-2026-04-12-at-6-21-37-PM.jpg](https://i.postimg.cc/gJRdcMM0/Whats-App-Image-2026-04-12-at-6-14-11-PM-modified.png)" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" align="center" />
+    <img src="https://i.postimg.cc/gJRdcMM0/Whats-App-Image-2026-04-12-at-6-14-11-PM-modified.png)" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" align="center" />
   </a>
 </p>
 
