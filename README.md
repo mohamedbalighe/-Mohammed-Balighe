@@ -69,7 +69,7 @@
 
 <h3>What I'm up to</h3>
 <ul>
-  <li><img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/240/apple/237/fire_1f525.png" width="20" alt="new" /> <b>Weekly Build Habit:</b> Currently in <b>Week 6</b> of building continuous real-world projects.</li>
+  <li>📅 <b>Weekly Build Habit:</b> Currently in <b>Week 6</b> of building continuous real-world projects.</li>
   <li>🚀 <b>React Exploration:</b> Transitioning my logic from C++ and static HTML to dynamic components.</li>
   <li>🎯 <b>Frontend Focus:</b> Mastering <b>Bootstrap</b> and <b>Tailwind CSS</b> for responsive layouts.</li>
   <li>🧠 <b>Engineering Logic:</b> Applying a problem-solving mindset to the world of Web Development.</li>
