@@ -38,7 +38,7 @@
   </tbody>
 </table>
 
-<h3>📅 Weekly Frontend Progress</h3>
+<h3>📅LEARNING PATHWAY</h3>
 <table>
   <tr>
     <td><b>Week 1</b></td>
