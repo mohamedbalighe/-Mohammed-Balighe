@@ -58,17 +58,17 @@
   <tr>
     <td><b>Week 3</b></td>
     <td>Product Page (DJI Mavic 4)</td>
-    <td><a href=" https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html">Live Demo</a></td>
+    <td><a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html">Live Demo</a></td>
   </tr>
   <tr>
     <td><b>Week 4</b></td>
     <td>The UX Review - Blog Landing</td>
-    <td><a href="#">Live Demo</a></td>
+    <td><a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html"">Live Demo</a></td>
   </tr>
   <tr>
     <td><b>Week 5</b></td>
     <td>GameArena Website</td>
-    <td><a href="#">Live Demo</a></td>
+    <td><a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html">Live Demo</a></td>
   </tr>
 </table>
 
