@@ -48,7 +48,7 @@
   <tr>
     <td><b>Week 1</b></td>
     <td>Portfolio Website</td>
-    <td><a href="Desktop/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio">Live Demo</a></td>
+    <td><a href="Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio">Live Demo</a></td>
   </tr>
   <tr>
     <td><b>Week 2</b></td>
