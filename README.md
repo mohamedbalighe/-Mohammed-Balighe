@@ -35,11 +35,6 @@
       <td><b>Team Leader (Led 4 Members)</b></td>
       <td>C++, OOP</td>
     </tr>
-    <tr>
-      <td><a href="#"><b>Weekly Challenges</b></a></td>
-      <td><b>5 Projects Completed</b></td>
-      <td>HTML, CSS, Bootstrap</td>
-    </tr>
   </tbody>
 </table>
 
