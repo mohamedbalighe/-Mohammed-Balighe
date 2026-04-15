@@ -37,15 +37,17 @@
 ### 📅 Front-end Learning Journey & Weekly Builds
 *Currently following a rigorous path to master modern web technologies.*
 
-| Week | Project | Status | Demo |
+### 🚀 Project Roadmap
+
+| Phase | Project Name | Progress | Action |
 | :--- | :--- | :--- | :--- |
-| **Week 1** | Portfolio Website | ✅ Done | <a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html">Link</a> |
-| **Week 2** | FitCore Gym Landing | ✅ Done | <a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore-Gym-Landing/index.html">Link</a> |
-| **Week 3** | Product Page (DJI Mavic 4) | ✅ Done | <a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html">Link</a> |
-| **Week 4** | The UX Review - Blog | ✅ Done | <a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html">Link</a> |
-| **Week 5** | GameArena Website | ✅ Done | <a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html">Link</a> |
-| **Current** | **JavaScript Logic Tasks** | 🏗️ In Progress | - |
-| **Next Up** | **React.js & Modern Frameworks** | 🏗️ In Progress | Building component-based scalable applications |
+| 📁 **W1** | Portfolio Website | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html) |
+| 📁 **W2** | FitCore Gym | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore-Gym-Landing/index.html) |
+| 📁 **W3** | DJI Mavic 4 Page | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html) |
+| 📁 **W4** | The UX Review | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html) |
+| 📁 **W5** | GameArena | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html) |
+| ⚡ **Now** | **JavaScript Core** | ![40%](https://geps.dev/progress/40) | *Developing Logic* |
+| 🔭 **Next** | **React + Tailwind** | ![0%](https://geps.dev/progress/0) | *Upcoming* |
 
 ---
 
