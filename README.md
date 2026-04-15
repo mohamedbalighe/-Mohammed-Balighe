@@ -34,7 +34,7 @@
   <tr>
     <td>
       <b>Bank Management System</b> <br>
-A comprehensive system built using OOP principles to manage banking operations, account data, and transactions with file handling. | C++, OOP, Data Structures      <br><br>
+A comprehensive system built using OOP principles to manage banking operations, account data, and transactions with file handling.<br><br>
       🛠 <b>Tech:</b> C++, OOP, File Handling <br>
       👥 <b>Role:</b> Team Leader (Managed 4 Members) <br>
       🔗 <a href="https://github.com/mohamedbalighe/CPP-Programming-Basics-Banking_System-Project">View Repository</a>
