@@ -61,10 +61,10 @@
     <td><a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html"">Live Demo</a></td>
   </tr>
   <tr>
-    <!-- <td><b>Week 5</b></td>
+    <td><b>Week 5</b></td>
     <td>GameArena Website</td>
     <td><a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html">Live Demo</a></td>
-  </tr> -->
+  </tr>
 </table>
 
 <h3>What I'm up to</h3>
