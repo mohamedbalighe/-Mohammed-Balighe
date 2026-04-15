@@ -44,7 +44,8 @@
 | **Week 3** | Product Page (DJI Mavic 4) | ✅ Done | <a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html">Link</a> |
 | **Week 4** | The UX Review - Blog | ✅ Done | <a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html">Link</a> |
 | **Week 5** | GameArena Website | ✅ Done | <a href="https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html">Link</a> |
-| **Week 6** | **JavaScript Logic Tasks** | 🏗️ In Progress | - |
+| **Current** | **JavaScript Logic Tasks** | 🏗️ In Progress | - |
+| **Next Up** | **React.js & Modern Frameworks** | 🏗️ In Progress | Building component-based scalable applications |
 
 ---
 
