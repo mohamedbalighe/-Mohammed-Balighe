@@ -7,7 +7,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Mohamed Balighe</h1>
 
 <p align="center">
-  <b>Freelance Front-end Developer | Computer Science Student</b> <br>
+  <b>Freelance Front-end Developert</b> <br>
   Building functional, responsive, and logic-driven web experiences from 📍 <b>Egypt</b>.
 </p>
 
