@@ -20,8 +20,8 @@
 
 ### 🛠 Tech Stack & Tools
 <p>
-  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <!-- <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> -->
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
@@ -34,8 +34,7 @@
   <tr>
     <td>
       <b>Bank Management System</b> <br>
-      نظام بنكي متكامل يعتمد على مفاهيم البرمجة الكائنية (OOP). يعكس هذا المشروع مهاراتي في بناء المنطق البرمجي والهيكلة السليمة للبيانات قبل الانتقال لعالم الويب.
-      <br><br>
+A comprehensive system built using OOP principles to manage banking operations, account data, and transactions with file handling. | C++, OOP, Data Structures      <br><br>
       🛠 <b>Tech:</b> C++, OOP, File Handling <br>
       👥 <b>Role:</b> Team Leader (Managed 4 Members) <br>
       🔗 <a href="https://github.com/mohamedbalighe/CPP-Programming-Basics-Banking_System-Project">View Repository</a>
