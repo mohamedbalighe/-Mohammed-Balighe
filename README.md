@@ -29,18 +29,10 @@
   <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
-### 🌟 Featured Project (Core Logic)
-<table>
-  <tr>
-    <td>
-      <b>Bank Management System</b> <br>
-A comprehensive system built using OOP principles to manage banking operations, account data, and transactions with file handling.<br><br>
-      🛠 <b>Tech:</b> C++, OOP, File Handling <br>
-      👥 <b>Role:</b> Team Leader (Managed 4 Members) <br>
-      🔗 <a href="https://github.com/mohamedbalighe/CPP-Programming-Basics-Banking_System-Project">View Repository</a>
-    </td>
-  </tr>
-</table>
+### 🌟 Featured Project
+| Project | Description | Tech Stack | Link |
+| :--- | :--- | :--- | :--- |
+| **Bank Management System** | A comprehensive system built using OOP principles to manage banking operations, account data, and transactions with file handling. | C++, OOP, Data Structures | <a href="https://github.com/mohamedbalighe/CPP-Programming-Basics-Banking_System-Project">View Repo</a> |
 
 ### 📅 Front-end Learning Journey & Weekly Builds
 *Currently following a rigorous path to master modern web technologies.*
