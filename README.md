@@ -34,19 +34,18 @@
 | :--- | :--- | :--- | :--- |
 | **Bank Management System** | A comprehensive system built using OOP principles to manage banking operations, account data, and transactions with file handling. | C++, OOP, Data Structures | <a href="https://github.com/mohamedbalighe/CPP-Programming-Basics-Banking_System-Project">View Repo</a> |
 
+
 ### 📅 Front-end Learning Journey & Weekly Builds
 *Currently following a rigorous path to master modern web technologies.*
 
-### 🚀 Project Roadmap
-
 | Phase | Project Name | Progress | Action |
 | :--- | :--- | :--- | :--- |
-| 📁 **W1** | Portfolio Website | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html) |
-| 📁 **W2** | FitCore Gym | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore-Gym-Landing/index.html) |
-| 📁 **W3** | DJI Mavic 4 Page | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html) |
-| 📁 **W4** | The UX Review | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html) |
-| 📁 **W5** | GameArena | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html) |
-| ⚡ **Now** | **JavaScript Core** | ![40%](https://geps.dev/progress/40) | *Developing Logic* |
+| 📁 **Week1** | Portfolio Website | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html) |
+| 📁 **Week2** | FitCore Gym | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore-Gym-Landing/index.html) |
+| 📁 **Week3** | DJI Mavic 4 Page | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html) |
+| 📁 **Week4** | The UX Review | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html) |
+| 📁 **Week5** | GameArena | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html) |
+| ⚡ **Now** | **JavaScript Core** | ![5%](https://geps.dev/progress/5) | *Developing Logic* |
 | 🔭 **Next** | **React + Tailwind** | ![0%](https://geps.dev/progress/0) | *Upcoming* |
 
 ---
