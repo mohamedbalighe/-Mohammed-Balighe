@@ -7,7 +7,7 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Mohamed Balighe</h1>
 
 <p align="center">
-  <b>Freelance Front-end Developert</b> <br>
+  <b>Freelance Front-end Developert | McKinsey Forward Learner |</b> <br>
   Building functional, responsive, and logic-driven web experiences from 📍 <b>Egypt</b>.
 </p>
 
@@ -51,6 +51,7 @@
 ---
 
 ### 🚀 Soft Skills & Commitments
+* 🎓 **McKinsey & Company:** Currently enrolled in the **Forward Program**, mastering Adaptability, Problem Solving, and Digital Collaboration.
 * 🌍 **Language:** Currently advancing to **English B1** level for better professional communication.
 * ⚡ **Availability:** Open for freelance Front-end projects and collaborations.
 * 🧠 **Mindset:** Combining C++ logic with Modern Web Aesthetics to solve problems.
