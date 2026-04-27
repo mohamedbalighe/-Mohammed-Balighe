@@ -45,7 +45,7 @@
 | 📁 **Week 3** | DJI Mavic 4 Page | HTML, CSS | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html) |
 | 📁 **Week 4** | The UX Review | HTML, CSS | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html) |
 | 📁 **Week 5** | GameArena | HTML, CSS, Bootstrap | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html) |
-| ⚡ **Now** | **JavaScript Core** | **JavaScript** | ![15%](https://geps.dev/progress/15) | *Developing Logic* |
+| ⚡ **Now** | **JavaScript Core** | **JavaScript** | ![30%](https://geps.dev/progress/15) | *Developing Logic* |
 | 🔭 **Next** | **React + Tailwind** | **React, Tailwind CSS** | ![0%](https://geps.dev/progress/0) | *Upcoming* |
 
 ---
