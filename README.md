@@ -45,7 +45,7 @@
 | 📁 **Week 3** | DJI Mavic 4 Page | HTML, CSS | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html) |
 | 📁 **Week 4** | The UX Review | HTML, CSS | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html) |
 | 📁 **Week 5** | GameArena | HTML, CSS, Bootstrap | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html) |
-| 📁 **Week 6** | Elite Homes Website | HTML, CSS, Bootstrap | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-6-EliteHomes-Website/index.html) |
+| 📁 **Week 6** | Elite Homes Website | HTML, CSS, Bootstrap | ![100%](https://geps.dev/progress/100) | [View]([https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-6-EliteHomes-Website/index.html) |
 | 📁 **Week 7** | What's For Dinner |  HTML, CSS, Bootstrap, JS | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-7-Whats-For-Dinner/index.html) |
 | 📁 **Week 8** | Contact Hub | HTML, CSS, Bootstrap, JS | ![100%](https://geps.dev/progress/100) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-6-Contact-Hub/index.html) |
 | ⚡ **Now** | **JavaScript Core** | **JavaScript** | ![75%](https://geps.dev/progress/75) | *Developing Logic* |
