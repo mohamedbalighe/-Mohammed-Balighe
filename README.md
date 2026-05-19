@@ -1,18 +1,18 @@
 <p align="center">
   <a href="https://github.com/mohamedbalighe">
-    <img src="https://i.postimg.cc/gJRdcMM0/Whats-App-Image-2026-04-12-at-6-14-11-PM-modified.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" align="center" />
+    <img src="https://i.postimg.cc/gJRdcMM0/Whats-App-Image-2026-04-12-at-6-14-11-PM-modified.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" align="center" alt="Mohamed Balighe" />
   </a>
 </p>
 
-<h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello, I'm Mohamed Balighe</h1>
+<h1 align="center">👋 Hello, I'm Mohamed Balighe</h1>
 
 <p align="center">
-  <b>Freelance Front-end Developert | McKinsey Forward Learner |</b> <br>
+  <b>Freelance Front-end Developer | McKinsey Forward Learner |</b> <br>
   Building functional, responsive, and logic-driven web experiences from 📍 <b>Egypt</b>.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamedbalighe" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/mohamedbalighe" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:your-email@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -20,13 +20,10 @@
 
 ### 🛠 Tech Stack & Tools
 <p>
-  <!-- <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" /> -->
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <!-- <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" /> -->
-  <img alt="C++" src="https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ### 🌟 Featured Project
