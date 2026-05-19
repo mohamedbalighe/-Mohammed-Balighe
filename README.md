@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" align="center" alt="Mohamed Balighe" onerror="this.src='https://ui-avatars.com/api/?name=Mohamed+Balighe&background=7952B3&color=fff&size=150'" />
+  <img src="profile.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" align="center" alt="Mohamed Balighe" onerror="this.src='WhatsAppImage2026-04-12at6.21.37PM.jpeg'" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Mohamed Balighe</h1>
