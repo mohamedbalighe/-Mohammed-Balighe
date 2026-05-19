@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" alt="Mohamed Balighe" />
+  <img src="profile.png.jpeg" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" alt="Mohamed Balighe" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Mohamed Balighe</h1>
