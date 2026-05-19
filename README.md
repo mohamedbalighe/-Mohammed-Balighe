@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="profile.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" align="center" alt="Mohamed Balighe" onerror="this.src='WhatsAppImage2026-04-12at6.21.37PM.jpeg'" />
+  <img src="profile.png" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" alt="Mohamed Balighe" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Mohamed Balighe</h1>
@@ -10,19 +10,22 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/mohamedbalighe" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&v=2" /></a>
-  <a href="mailto:your-email@example.com" target="_blank"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&v=2" /></a>
+  <a href="https://www.linkedin.com/in/mohamedbalighe" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your-email@example.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
 ### 🛠 Tech Stack & Tools
-<p>
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&v=2" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&v=2" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&v=2" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&v=2" />
-</p>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) 
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 
 ### 🌟 Featured Project
 | Project | Description | Tech Stack | Link |
