@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" height="150" alt="mohamed_profile" src="https://github.com/user-attachments/assets/1874e1b2-72a1-478c-87a6-a2af0410ef07""/>
+  <img width="150" height="150" alt="mohamed_profile" src="https://github.com/user-attachments/assets/1874e1b2-72a1-478c-87a6-a2af0410ef07" style="border: 3px solid #7952B3; border-radius: 50%;"/>
 </p>
 
 <h1 align="center">👋 Hello, I'm Mohamed Balighe</h1>
@@ -19,31 +19,27 @@
 </div>
 
 ---
+
 ### 🛠 Tech Stack & Tools
 
 <div>
-  <table border="0" style="border-collapse: collapse; border-style: none;">
-    <tr>
-      <td align="center" width="120" style="border: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
-        <br /><sub><b>HTML5</b></sub>
-      </td>
-      <td align="center" width="120" style="border: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
-        <br /><sub><b>CSS3</b></sub>
-      </td>
-      <td align="center" width="120" style="border: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" />
-        <br /><sub><b>Bootstrap</b></sub>
-      </td>
-      <td align="center" width="120" style="border: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
-        <br /><sub><b>C++</b></sub>
-      </td>
-    </tr>
-  </table>
+  <div style="display: inline-block; text-align: center; width: 100px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
+    <br /><sub><b>HTML5</b></sub>
+  </div>
+  <div style="display: inline-block; text-align: center; width: 100px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
+    <br /><sub><b>CSS3</b></sub>
+  </div>
+  <div style="display: inline-block; text-align: center; width: 100px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" />
+    <br /><sub><b>Bootstrap</b></sub>
+  </div>
+  <div style="display: inline-block; text-align: center; width: 100px; margin: 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
+    <br /><sub><b>C++</b></sub>
+  </div>
 </div>
-
 
 ### 🌟 Featured Project
 
@@ -57,17 +53,17 @@ _Currently following a rigorous path to master modern web technologies._
 
 | Phase         | Project Name         | Tech Stack               | Progress                                                                              | Demo                                                                                                                         |
 | :------------ | :------------------- | :----------------------- | :------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------- |
-| 📁 **Week 1** | Portfolio Website    | HTML                     | <b style="color: #28a745;">Done (100%)</b>   | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html)                    |
-| 📁 **Week 2** | FitCore Gym          | HTML, CSS                | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square)       | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore-Gym-Landing/index.html)          |
-| 📁 **Week 3** | DJI Mavic 4 Page     | HTML, CSS                | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square)       | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html) |
-| 📁 **Week 4** | The UX Review        | HTML, CSS                | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square)       | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html)   |
-| 📁 **Week 5** | GameArena            | HTML, CSS, Bootstrap     | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square)       | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html)             |
-| 📁 **Week 6** | Elite Homes Website  | HTML, CSS, Bootstrap     | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square)       | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-6-EliteHomes-Website/index.html)            |
-| 📁 **Week 7** | What's For Dinner    | HTML, CSS, Bootstrap, JS | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square)       | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-7-Whats-For-Dinner/index.html)              |
-| 📁 **Week 8** | Contact Hub          | HTML, CSS, Bootstrap, JS | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square)       | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-8-Contact-Hub/index.html)                  |
-| 📁 **Week 9** | Personal Portfolio   | HTML, CSS, Bootstrap, JS | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square)       | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-9-Personal-Portfolio/index.html)            |
-| ⚡ **Now** | **JavaScript Core** | **JavaScript** | ![80%](https://img.shields.io/badge/Progress-80%25-yellowgreen?style=flat-square)     | _Developing Logic_                                                                                                           |
-| 🔭 **Next** | **React + Tailwind** | **React, Tailwind CSS** | ![0%](https://img.shields.io/badge/Progress-0%25-lightgrey?style=flat-square)         | _Upcoming_                                                                                                                   |
+| 📁 **Week 1** | Portfolio Website    | HTML                     | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html)                    |
+| 📁 **Week 2** | FitCore Gym          | HTML, CSS                | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore-Gym-Landing/index.html)          |
+| 📁 **Week 3** | DJI Mavic 4 Page     | HTML, CSS                | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html) |
+| 📁 **Week 4** | The UX Review        | HTML, CSS                | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html)   |
+| 📁 **Week 5** | GameArena            | HTML, CSS, Bootstrap     | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html)             |
+| 📁 **Week 6** | Elite Homes Website  | HTML, CSS, Bootstrap     | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-6-EliteHomes-Website/index.html)            |
+| 📁 **Week 7** | What's For Dinner    | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-7-Whats-For-Dinner/index.html)              |
+| 📁 **Week 8** | Contact Hub          | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-8-Contact-Hub/index.html)                  |
+| 📁 **Week 9** | Personal Portfolio   | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-9-Personal-Portfolio/index.html)            |
+| ⚡ **Now** | **JavaScript Core** | **JavaScript** | <b style="color: #dbab09;">In Progress (80%)</b>                                      | _Developing Logic_                                                                                                           |
+| 🔭 **Next** | **React + Tailwind** | **React, Tailwind CSS** | <b style="color: #6c757d;">Upcoming (0%)</b>                                          | _Upcoming_                                                                                                                   |
 
 ---
 
