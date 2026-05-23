@@ -14,8 +14,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35" valign="middle" />
   </a>
  <a href="mailto:mohamedbalighe1@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
-<img src=""<img width="225" height="225" alt="Gmail_Image" src="https://github.com/user-attachments/assets/e4196f58-53ba-49df-b6d3-b2eb5dcc7b35" />
- alt="Email" width="35" height="35" valign="middle" />  </a>
+<img src="https://github.com/user-attachments/assets/e4196f58-53ba-49df-b6d3-b2eb5dcc7b35"  alt="Email" width="35" height="35" valign="middle" />
+ </a>
 </div>
 
 ---
