@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Images/WhatsApp Image 2026-04-12 at 6.21.37 PM.jpeg" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" alt="Mohamed Balighe" />
+  <img src="Images/mohamed_profile.jpeg" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" alt="Mohamed Balighe" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Mohamed Balighe</h1>
