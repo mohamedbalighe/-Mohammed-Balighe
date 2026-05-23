@@ -25,7 +25,7 @@
 <p>
   <table style="border: none; border-collapse: collapse; background: transparent;">
     <tr style="background: transparent; border: none;">
-      <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
+      <td align="center" style="border: none; padding: 13px 16px; background: transparent;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
         <br /><sub><b>C++</b></sub>
       </td>
