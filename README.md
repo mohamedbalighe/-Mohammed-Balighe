@@ -24,6 +24,10 @@
   <table border="0" style="border-collapse: collapse; border-style: none;">
     <tr>
       <td align="center" width="120" style="border: none;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
+        <br /><sub><b>C++</b></sub>
+      </td>
+      <td align="center" width="120" style="border: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
         <br /><sub><b>HTML5</b></sub>
       </td>
@@ -34,10 +38,6 @@
       <td align="center" width="120" style="border: none;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" />
         <br /><sub><b>Bootstrap</b></sub>
-      </td>
-      <td align="center" width="120" style="border: none;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
-        <br /><sub><b>C++</b></sub>
       </td>
     </tr>
   </table>
