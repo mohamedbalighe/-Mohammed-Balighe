@@ -1,4 +1,4 @@
-<img width="736" height="736" alt="mohamed_profile" src="https://github.com/user-attachments/assets/1874e1b2-72a1-478c-87a6-a2af0410ef07" /><p align="center">
+<img width="336" height="336" alt="mohamed_profile" src="https://github.com/user-attachments/assets/1874e1b2-72a1-478c-87a6-a2af0410ef07" /><p align="center">
 </p>
 
 <h1 align="center">👋 Hello, I'm Mohamed Balighe</h1>
