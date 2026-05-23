@@ -9,14 +9,14 @@
   Building functional, responsive, and logic-driven web experiences from 📍 <b>Egypt</b>.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohamedbalighe" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<div align="center">
+  <a href="https://www.linkedin.com/in/mohamedbalighe" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35" valign="middle" />
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:your-email@example.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://raw.githubusercontent.com/pngwing-vectors/icon-vector-library/master/gmail.svg" alt="Email" width="35" height="35" valign="middle" />
   </a>
-</p>
+</div>
 
 ---
 ### 🛠 Tech Stack & Tools
@@ -57,7 +57,7 @@ _Currently following a rigorous path to master modern web technologies._
 
 | Phase         | Project Name         | Tech Stack               | Progress                                                                              | Demo                                                                                                                         |
 | :------------ | :------------------- | :----------------------- | :------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------- |
-| 📁 **Week 1** | Portfolio Website    | HTML                     | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square)       | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html)                    |
+| 📁 **Week 1** | Portfolio Website    | HTML                     | <b style="color: #28a745;">Done (100%)</b>   | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html)                    |
 | 📁 **Week 2** | FitCore Gym          | HTML, CSS                | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square)       | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore-Gym-Landing/index.html)          |
 | 📁 **Week 3** | DJI Mavic 4 Page     | HTML, CSS                | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square)       | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html) |
 | 📁 **Week 4** | The UX Review        | HTML, CSS                | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square)       | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html)   |
