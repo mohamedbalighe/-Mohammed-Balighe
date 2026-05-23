@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="150" height="150" alt="mohamed_profile" src="https://github.com/user-attachments/assets/1874e1b2-72a1-478c-87a6-a2af0410ef07" style="border: 3px solid #7952B3; border-radius: 50%;"/>
+  <img width="200" height="200" alt="mohamed_profile" src="https://github.com/user-attachments/assets/1874e1b2-72a1-478c-87a6-a2af0410ef07" style="border: 3px solid #7952B3; border-radius: 50%;"/>
 </p>
 
 <h1 align="center">👋 Hello, I'm Mohamed Balighe</h1>
