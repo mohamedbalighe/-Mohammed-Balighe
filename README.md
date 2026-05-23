@@ -21,7 +21,7 @@
 ---
 ### 🛠 Tech Stack & Tools
 
-<div align="center">
+<div>
   <table border="0" style="border-collapse: collapse; border-style: none;">
     <tr>
       <td align="center" width="120" style="border: none;">
