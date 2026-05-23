@@ -23,7 +23,7 @@
 ### 🛠 Tech Stack & Tools
 
 <p>
-  <table align="center" style="border: none; border-collapse: collapse; background: transparent;">
+  <table style="border: none; border-collapse: collapse; background: transparent;">
     <tr style="background: transparent; border: none;">
       <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
