@@ -13,8 +13,8 @@
   <a href="https://www.linkedin.com/in/mohamed-balighe-188585331?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" style="text-decoration: none; margin: 0 10px;">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35" valign="middle" />
   </a>
-  <a href="mailto:mohamedbalighe1@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Email" width="35" height="35" valign="middle" />
+ <a href="mailto:mohamedbalighe1@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" width="35" height="27" valign="middle" />
   </a>
 </div>
 
