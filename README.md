@@ -23,19 +23,30 @@
 ### 🛠 Tech Stack & Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" style="margin: 0 10px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" style="margin: 0 10px;" />
-</p>
-
-<p align="center">
-  <sub><b>C++</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>HTML5</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>CSS3</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>Bootstrap</b></sub> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <sub><b>JavaScript</b></sub>
+  <table align="center" style="border: none; border-collapse: collapse; background: transparent;">
+    <tr style="background: transparent; border: none;">
+      <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45" />
+        <br /><sub><b>C++</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="45" height="45" />
+        <br /><sub><b>HTML5</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="45" height="45" />
+        <br /><sub><b>CSS3</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" />
+        <br /><sub><b>Bootstrap</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45" />
+        <br /><sub><b>JavaScript</b></sub>
+      </td>
+    </tr>
+  </table>
 </p>
 
 
