@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Desktop/Images/mohamed_profile.jpeg.jpeg" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" alt="Mohamed Balighe" />
+  <img src="Images/mohamed_profile.jpeg.jpeg" width="150" height="150" style="border-radius: 50%; border: 3px solid #7952B3;" alt="Mohamed Balighe" />
 </p>
 
 <h1 align="center">👋 Hello, I'm Mohamed Balighe</h1>
@@ -22,39 +22,42 @@
 
 ### 🛠 Tech Stack & Tools
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&v=1) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&v=1) 
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&v=1) 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&v=1)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white&v=1)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white&v=1)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white&v=1)
 
 ### 🌟 Featured Project
-| Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
+
+| Project                    | Description                                                                                                                        | Tech Stack                | Link                                                                                                    |
+| :------------------------- | :--------------------------------------------------------------------------------------------------------------------------------- | :------------------------ | :------------------------------------------------------------------------------------------------------ |
 | **Bank Management System** | A comprehensive system built using OOP principles to manage banking operations, account data, and transactions with file handling. | C++, OOP, Data Structures | <a href="https://github.com/mohamedbalighe/CPP-Programming-Basics-Banking_System-Project">View Repo</a> |
 
 ### 📅 Front-end Learning Journey & Weekly Builds
-*Currently following a rigorous path to master modern web technologies.*
 
-| Phase | Project Name | Tech Stack | Progress | Demo |
-| :--- | :--- | :--- | :--- | :--- |
-| 📁 **Week 1** | Portfolio Website | HTML | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html) |
-| 📁 **Week 2** | FitCore Gym | HTML, CSS | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore-Gym-Landing/index.html) |
-| 📁 **Week 3** | DJI Mavic 4 Page | HTML, CSS | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html) |
-| 📁 **Week 4** | The UX Review | HTML, CSS | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html) |
-| 📁 **Week 5** | GameArena | HTML, CSS, Bootstrap | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html) |
-| 📁 **Week 6** | Elite Homes Website | HTML, CSS, Bootstrap | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-6-EliteHomes-Website/index.html) |
-| 📁 **Week 7** | What's For Dinner |  HTML, CSS, Bootstrap, JS | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-7-Whats-For-Dinner/index.html) |
-| 📁 **Week 8** | Contact Hub | HTML, CSS, Bootstrap, JS | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-8-Contact-Hub/index.html) |
-| 📁 **Week 9** | Personal Portfolio | HTML, CSS, Bootstrap, JS | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1) | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-9-Personal-Portfolio/index.html) |
-| ⚡ **Now** | **JavaScript Core** | **JavaScript** | ![80%](https://img.shields.io/badge/Progress-80%25-yellowgreen?style=flat-square&v=1) | *Developing Logic* |
-| 🔭 **Next** | **React + Tailwind** | **React, Tailwind CSS** | ![0%](https://img.shields.io/badge/Progress-0%25-lightgrey?style=flat-square&v=1) | *Upcoming* |
+_Currently following a rigorous path to master modern web technologies._
+
+| Phase         | Project Name         | Tech Stack               | Progress                                                                              | Demo                                                                                                                         |
+| :------------ | :------------------- | :----------------------- | :------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------- |
+| 📁 **Week 1** | Portfolio Website    | HTML                     | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1)   | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html)                    |
+| 📁 **Week 2** | FitCore Gym          | HTML, CSS                | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1)   | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore-Gym-Landing/index.html)          |
+| 📁 **Week 3** | DJI Mavic 4 Page     | HTML, CSS                | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1)   | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html) |
+| 📁 **Week 4** | The UX Review        | HTML, CSS                | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1)   | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html)   |
+| 📁 **Week 5** | GameArena            | HTML, CSS, Bootstrap     | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1)   | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html)            |
+| 📁 **Week 6** | Elite Homes Website  | HTML, CSS, Bootstrap     | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1)   | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-6-EliteHomes-Website/index.html)           |
+| 📁 **Week 7** | What's For Dinner    | HTML, CSS, Bootstrap, JS | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1)   | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-7-Whats-For-Dinner/index.html)             |
+| 📁 **Week 8** | Contact Hub          | HTML, CSS, Bootstrap, JS | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1)   | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-8-Contact-Hub/index.html)                  |
+| 📁 **Week 9** | Personal Portfolio   | HTML, CSS, Bootstrap, JS | ![100%](https://img.shields.io/badge/Progress-100%25-success?style=flat-square&v=1)   | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-9-Personal-Portfolio/index.html)           |
+| ⚡ **Now**    | **JavaScript Core**  | **JavaScript**           | ![80%](https://img.shields.io/badge/Progress-80%25-yellowgreen?style=flat-square&v=1) | _Developing Logic_                                                                                                           |
+| 🔭 **Next**   | **React + Tailwind** | **React, Tailwind CSS**  | ![0%](https://img.shields.io/badge/Progress-0%25-lightgrey?style=flat-square&v=1)     | _Upcoming_                                                                                                                   |
 
 ---
 
 ### 🚀 Soft Skills & Commitments
-* 🎓 **McKinsey & Company:** Currently enrolled in the **Forward Program**, mastering Adaptability, Problem Solving, and Digital Collaboration.
-* 🌍 **Language:** Currently advancing to **English B1** level for better professional communication.
-* ⚡ **Availability:** Open for freelance Front-end projects and collaborations.
-* 🧠 **Mindset:** Combining C++ logic with Modern Web Aesthetics to solve problems.
+
+- 🎓 **McKinsey & Company:** Currently enrolled in the **Forward Program**, mastering Adaptability, Problem Solving, and Digital Collaboration.
+- 🌍 **Language:** Currently advancing to **English B1** level for better professional communication.
+- ⚡ **Availability:** Open for freelance Front-end projects and collaborations.
+- 🧠 **Mindset:** Combining C++ logic with Modern Web Aesthetics to solve problems.
 
 <p align="center">"Consistency is what transforms average into excellence."</p>
