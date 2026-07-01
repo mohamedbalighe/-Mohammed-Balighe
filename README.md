@@ -51,7 +51,7 @@
       </td>
       <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50" />
-        <br /><sub><b>Typecript</b></sub>
+        <br /><sub><b>Typescript</b></sub>
       </td>
     </tr>
   </table>
@@ -81,7 +81,7 @@ _Currently following a rigorous path to master modern web technologies._
 | 📁 **Week 9** | Personal Portfolio | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-9-Personal-Portfolio/index.html) |
 | 📁 **Week 10** | Kanban Task Manager | HTML, CSS, Bootstrap, JS, TypeScript | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-11-Kanban-Task-Manager/index.html) |
 | 📁 **Week 11** | TailwindCSS | Tailwind CSS | <b style="color: #28a745;">Done (100%)</b> |
-| ⚡ **Now** | **JavaScript Core** | **JavaScript** | <b style="color: #dbab09;">Done (100%)</b> | _Developing Logic_ |
+| ⚙️ **Module** | **JavaScript Core** | **JavaScript** | <b style="color: #dbab09;">Done (100%)</b> | _Developing Logic_ |
 | ⚙️ **Module** | TypeScript | TypeScript | <b style="color: #28a745;">Done (100%)</b> | ─ |
 | ⚡ **Now** | **React.js** | **React.js** | <b style="color: #6c757d;">In Progress (0%)</b> | _Upcoming_ |
 
