@@ -42,6 +42,10 @@
         <br /><sub><b>Bootstrap</b></sub>
       </td>
       <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
+        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss" width="50" height="50" />
+        <br /><sub><b>Tailwindcss</b></sub>
+      </td>
+      <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
         <br /><sub><b>JavaScript</b></sub>
       </td>
@@ -72,8 +76,9 @@ _Currently following a rigorous path to master modern web technologies._
 | 📁 **Week 8** | Contact Hub          | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-8-Contact-Hub/index.html)                  |
 | 📁 **Week 9** | Personal Portfolio   | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-9-Personal-Portfolio/index.html)            |
 | 📁 **Week 10** | Kanbak-Task Manger  | HTML, CSS, Bootstrap, JS, TypeScript | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-11-Kanban-Task-Manager/index.html)            |
-| ⚡ **Now** | **JavaScript Core** | **JavaScript** | <b style="color: #dbab09;">In Progress (90%)</b>                                      | _Developing Logic_                                                                                                           |
-| 🔭 **Next** | **React + Tailwind** | **React, Tailwind CSS** | <b style="color: #6c757d;">Upcoming (0%)</b>                                          | _Upcoming_                                                                                                                   |
+| 📁 **Week 9** |TailwindCSS   | - | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-9-Personal-Portfolio/index.html)            |
+| ⚡ **Now** | **JavaScript Core** | **JavaScript** | <b style="color: #dbab09;">Done (100%)</b>                                      | _Developing Logic_                                                                                                           |
+| ⚡ **Now** | **React.js** | **React.js** | <b style="color: #6c757d;">In Progress (0%)</b>                                          | _Upcoming_                                                                                                                   |
 
 ---
 
