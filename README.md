@@ -68,22 +68,22 @@
 
 _Currently following a rigorous path to master modern web technologies._
 
-| Phase         | Project Name         | Tech Stack               | Progress                                                                              | Demo                                                                                                                         |
-| :------------ | :------------------- | :----------------------- | :------------------------------------------------------------------------------------ | :--------------------------------------------------------------------------------------------------------------------------- |
-| 📁 **Week 1** | Portfolio Website    | HTML                     | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html)                    |
-| 📁 **Week 2** | FitCore Gym          | HTML, CSS                | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore-Gym-Landing/index.html)          |
-| 📁 **Week 3** | DJI Mavic 4 Page     | HTML, CSS                | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html) |
-| 📁 **Week 4** | The UX Review        | HTML, CSS                | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html)   |
-| 📁 **Week 5** | GameArena            | HTML, CSS, Bootstrap     | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html)             |
-| 📁 **Week 6** | Elite Homes Website  | HTML, CSS, Bootstrap     | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-6-EliteHomes-Website/index.html)            |
-| 📁 **Week 7** | What's For Dinner    | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-7-Whats-For-Dinner/index.html)              |
-| 📁 **Week 8** | Contact Hub          | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-8-Contact-Hub/index.html)                  |
-| 📁 **Week 9** | Personal Portfolio   | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b>                                            | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-9-Personal-Portfolio/index.html)            |
-| 📁 **Week 10** | Kanbak-Task Manger  | HTML, CSS, Bootstrap, JS, TypeScript | <b style="color: #28a745;">Done (100%)</b>                                | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-11-Kanban-Task-Manager/index.html)            |
-| 📁 **Week 11** |TailwindCSS   | - | <b style="color: #28a745;">Done (100%)</b>                                            | -(https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-9-Personal-Portfolio/index.html)            |
-| ⚡ **Now** | **JavaScript Core** | **JavaScript** | <b style="color: #dbab09;">Done (100%)</b>                                      | _Developing Logic_                                                                                                           |
-| 📁 **Week 9** | Typescript   |- | <b style="color: #28a745;">Done (100%)</b>                                            | -            |
-| ⚡ **Now** | **React.js** | **React.js** | <b style="color: #6c757d;">In Progress (0%)</b>                                          | _Upcoming_                                                                                                                   |
+| Phase | Project Name | Tech Stack | Progress | Demo |
+| :--- | :--- | :--- | :--- | :--- |
+| 📁 **Week 1** | Portfolio Website | HTML | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html) |
+| 📁 **Week 2** | FitCore Gym | HTML, CSS | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore-Gym-Landing/index.html) |
+| 📁 **Week 3** | DJI Mavic 4 Page | HTML, CSS | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html) |
+| 📁 **Week 4** | The UX Review | HTML, CSS | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html) |
+| 📁 **Week 5** | GameArena | HTML, CSS, Bootstrap | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html) |
+| 📁 **Week 6** | Elite Homes Website | HTML, CSS, Bootstrap | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-6-EliteHomes-Website/index.html) |
+| 📁 **Week 7** | What's For Dinner | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-7-Whats-For-Dinner/index.html) |
+| 📁 **Week 8** | Contact Hub | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-8-Contact-Hub/index.html) |
+| 📁 **Week 9** | Personal Portfolio | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-9-Personal-Portfolio/index.html) |
+| 📁 **Week 10** | Kanban Task Manager | HTML, CSS, Bootstrap, JS, TypeScript | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-11-Kanban-Task-Manager/index.html) |
+| 📁 **Week 11** | TailwindCSS | Tailwind CSS | <b style="color: #28a745;">Done (100%)</b> |
+| ⚡ **Now** | **JavaScript Core** | **JavaScript** | <b style="color: #dbab09;">Done (100%)</b> | _Developing Logic_ |
+| ⚙️ **Module** | TypeScript | TypeScript | <b style="color: #28a745;">Done (100%)</b> | ─ |
+| ⚡ **Now** | **React.js** | **React.js** | <b style="color: #6c757d;">In Progress (0%)</b> | _Upcoming_ |
 
 ---
 
