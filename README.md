@@ -62,12 +62,53 @@ More practice projects: [Weekly Builds](https://github.com/mohamedbalighe/Weekly
 
 ## Tech Stack
 
-| | |
-| :--- | :--- |
-| **Frontend** | React, Next.js, TypeScript, JavaScript (ES6+) |
-| **Styling** | Tailwind CSS, Bootstrap, HTML5, CSS3 |
-| **Data & Auth** | TanStack Query, NextAuth.js, React Hook Form |
-| **Foundations** | C++, OOP, Data Structures |
+<table align="center">
+  <tr>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
+      <br /><sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
+      <br /><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
+      <br /><sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
+      <br /><sub><b>Bootstrap</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50" />
+      <br /><sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
+      <br /><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50" />
+      <br /><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="110">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="50" height="50" />
+      <br /><sub><b>React</b></sub>
+    </td>
+    <td align="center" width="110">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/white" />
+        <img src="https://cdn.simpleicons.org/nextdotjs/black" alt="Next.js" width="50" height="50" />
+      </picture>
+      <br /><sub><b>Next.js</b></sub>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <sub>Also used: TanStack Query · NextAuth.js · React Hook Form</sub>
+</p>
 
 ---
 
