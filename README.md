@@ -1,97 +1,84 @@
 <p align="center">
-  <img width="200" height="200" alt="mohamed_profile" src="https://github.com/user-attachments/assets/1874e1b2-72a1-478c-87a6-a2af0410ef07" style="border: 3px solid #7952B3; border-radius: 50%;"/>
+  <img src="https://github.com/user-attachments/assets/1874e1b2-72a1-478c-87a6-a2af0410ef07" width="150" alt="Mohamed Balighe" />
 </p>
 
-<h1 align="center">👋 Hello, I'm Mohamed Balighe</h1>
+<h1 align="center">Mohamed Balighe</h1>
 
 <p align="center">
-  <b>Freelance Front-end Developer | McKinsey Forward Learner |</b> <br>
-  Building functional, responsive, and logic-driven web experiences from 📍 <b>Egypt</b>.
+  <b>Junior Frontend Developer</b><br />
+  React · Next.js · TypeScript · Tailwind CSS<br />
+  Based in Egypt
 </p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohamed-balighe-188585331?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank" style="text-decoration: none; margin: 0 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35" valign="middle" />
-  </a>
- <a href="mailto:mohamedbalighe1@gmail.com" target="_blank" style="text-decoration: none; margin: 0 10px;">
-<img src="https://github.com/user-attachments/assets/e4196f58-53ba-49df-b6d3-b2eb5dcc7b35"  alt="Email" width="35" height="35" valign="middle" />
- </a>
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohamed-balighe-188585331?utm_source=share_via&utm_content=profile&utm_medium=member_android">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:mohamedbalighe1@gmail.com">Email</a>
+</p>
 
 ---
 
-### 🛠 Tech Stack & Tools
+## About
 
-<p>
-  <table style="border: none; border-collapse: collapse; background: transparent;">
-    <tr style="background: transparent; border: none;">
-      <td align="center" style="border: none; padding: 13px 16px; background: transparent;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50" />
-        <br /><sub><b>C++</b></sub>
-      </td>
-      <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" />
-        <br /><sub><b>HTML5</b></sub>
-      </td>
-      <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" />
-        <br /><sub><b>CSS3</b></sub>
-      </td>
-      <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="50" height="50" />
-        <br /><sub><b>Bootstrap</b></sub>
-      </td>
-      <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
-        <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwindcss" width="50" height="50" />
-        <br /><sub><b>Tailwindcss</b></sub>
-      </td>
-      <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" />
-        <br /><sub><b>JavaScript</b></sub>
-      </td>
-      <td align="center" style="border: none; padding: 10px 15px; background: transparent;">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="Typescript" width="50" height="50" />
-        <br /><sub><b>Typescript</b></sub>
-      </td>
-    </tr>
-  </table>
-</p>
+I build responsive, user-focused web applications with React, Next.js and TypeScript. I started with C++ and object-oriented programming, which shaped how I structure logic, and moved into modern frontend development from there.
 
-
-### 🌟 Featured Project
-
-| Project                     | Description                                                                                                                         | Tech Stack                 | Link                                                                                                    |
-| :-------------------------- | :---------------------------------------------------------------------------------------------------------------------------------- | :------------------------- | :------------------------------------------------------------------------------------------------------ |
-| **Bank Management System** | A comprehensive system built using OOP principles to manage banking operations, account data, and transactions with file handling. | C++, OOP, Data Structures  | <a href="https://github.com/mohamedbalighe/CPP-Programming-Basics-Banking_System-Project">View Repo</a> |
-
-### 📅 Front-end Learning Journey & Weekly Builds
-
-_Currently following a rigorous path to master modern web technologies._
-
-| Phase | Project Name | Tech Stack | Progress | Demo |
-| :--- | :--- | :--- | :--- | :--- |
-| 📁 **Week 1** | Portfolio Website | HTML | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-1-Portfolio/index.html) |
-| 📁 **Week 2** | FitCore Gym | HTML, CSS | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-2-FitCore-Gym-Landing/index.html) |
-| 📁 **Week 3** | DJI Mavic 4 Page | HTML, CSS | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-3-Product-Page-The-DJI-Mavic-4/index.html) |
-| 📁 **Week 4** | The UX Review | HTML, CSS | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-4-The-UX-Review-Blog-Landing/index.html) |
-| 📁 **Week 5** | GameArena | HTML, CSS, Bootstrap | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-5-GameArena-Website/index.html) |
-| 📁 **Week 6** | Elite Homes Website | HTML, CSS, Bootstrap | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-6-EliteHomes-Website/index.html) |
-| 📁 **Week 7** | What's For Dinner | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-7-Whats-For-Dinner/index.html) |
-| 📁 **Week 8** | Contact Hub | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-8-Contact-Hub/index.html) |
-| 📁 **Week 9** | Personal Portfolio | HTML, CSS, Bootstrap, JS | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-9-Personal-Portfolio/index.html) |
-| 📁 **Week 10** | Kanban Task Manager | HTML, CSS, Bootstrap, JS, TypeScript | <b style="color: #28a745;">Done (100%)</b> | [View](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-11-Kanban-Task-Manager/index.html) |
-| 📁 **Week 11** | TailwindCSS | Tailwind CSS | <b style="color: #28a745;">Done (100%)</b> |
-| ⚙️ **Module** | **JavaScript Core** | **JavaScript** | <b style="color: #dbab09;">Done (100%)</b> | _Developing Logic_ |
-| ⚙️ **Module** | TypeScript | TypeScript | <b style="color: #28a745;">Done (100%)</b> | ─ |
-| ⚡ **Now** | **React.js** | **React.js** | <b style="color: #6c757d;">In Progress (0%)</b> | _Upcoming_ |
+Open to junior frontend roles and freelance projects.
 
 ---
 
-### 🚀 Soft Skills & Commitments
+## Featured Project
 
-- 🎓 **McKinsey & Company:** Currently enrolled in the **Forward Program**, mastering Adaptability, Problem Solving, and Digital Collaboration.
-- 🌍 **Language:** Currently advancing to **English B1** level for better professional communication.
-- ⚡ **Availability:** Open for freelance Front-end projects and collaborations.
-- 🧠 **Mindset:** Combining C++ logic with Modern Web Aesthetics to solve problems.
+### ELEVE — Curated Commerce
 
-<p align="center">"Consistency is what transforms average into excellence."</p>
+A full e-commerce web application built with Next.js (App Router) and TypeScript. It covers the complete shopping flow: browsing, authentication, cart, wishlist and checkout.
+
+**[Live Demo](https://elv-curated-commerce-b9dt.vercel.app/)** &nbsp;·&nbsp; **[Source Code](https://github.com/mohamedbalighe/ELV--Curated-Commerce)**
+
+**What it does**
+
+- Product browsing with category filter, price filter and search
+- Product detail pages with an image gallery
+- Sign in and registration, with protected routes for the cart and wishlist
+- Cart with quantity management, and a wishlist
+- Checkout with cash on delivery or online payment
+
+**Built with:** Next.js 16 (App Router), TypeScript, Tailwind CSS v4, NextAuth.js, TanStack Query, React Hook Form, Swiper
+
+Product, cart and order data comes from a public REST API (Route Academy E-Commerce API); the frontend, authentication flow and server actions are my own work.
+
+---
+
+## More Projects
+
+| Project | What it does | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Contact Hub** | Contact manager with full CRUD, live search and form validation. Data persists in the browser with `localStorage`. | HTML, CSS, Bootstrap 5, JavaScript | [Demo](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-8-Contact-Hub/index.html) |
+| **What's For Dinner** | Recipe discovery app. Fetches recipes from an API and renders cards with ingredients and instructions, with loading states. | HTML, CSS, Bootstrap 5, JavaScript (Fetch API, async) | [Demo](https://mohamedbalighe.github.io/Weekly01-Projects-HTML-CSS-Bootstrap/Week-7-Whats-For-Dinner/index.html) |
+| **Bank Management System** | Console application built on OOP principles to manage accounts, data and transactions, with file handling. My C++ foundation project. | C++, OOP, Data Structures | [Repository](https://github.com/mohamedbalighe/CPP-Programming-Basics-Banking_System-Project) |
+
+More practice projects: [Weekly Builds](https://github.com/mohamedbalighe/Weekly01-Projects-HTML-CSS-Bootstrap)
+
+---
+
+## Tech Stack
+
+| | |
+| :--- | :--- |
+| **Frontend** | React, Next.js, TypeScript, JavaScript (ES6+) |
+| **Styling** | Tailwind CSS, Bootstrap, HTML5, CSS3 |
+| **Data & Auth** | TanStack Query, NextAuth.js, React Hook Form |
+| **Foundations** | C++, OOP, Data Structures |
+
+---
+
+## Background
+
+- Completed the McKinsey Forward Program (adaptability, problem solving, digital collaboration)
+- Continuing to build with React and Next.js
+
+---
+
+## Contact
+
+- Email: [mohamedbalighe1@gmail.com](mailto:mohamedbalighe1@gmail.com)
+- LinkedIn: [Mohamed Balighe](https://www.linkedin.com/in/mohamed-balighe-188585331?utm_source=share_via&utm_content=profile&utm_medium=member_android)
